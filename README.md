@@ -122,7 +122,3 @@ Contributions are welcome! If you have suggestions for improving this project, p
 ## 📝 License
 
 This project is distributed under the MIT License. See the `LICENSE` file for more information.
-
-
-
-![Image](https://github.com/user-attachments/assets/451391ee-1971-43e8-ac0a-2daefa7b843f)
