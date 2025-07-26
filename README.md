@@ -33,7 +33,7 @@ Make sure you have **Python 3.7** or a newer version installed on your system. Y
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/Saipreetham321/Forecasting-COVID-19-Cases-Using-Time-Series-Models_-A-Study-Across-Countries-and-WHO-Regions.git](https://github.com/Saipreetham321/Forecasting-COVID-19-Cases-Using-Time-Series-Models_-A-Study-Across-Countries-and-WHO-Regions.git)
+    git clone https://github.com/Saipreetham321/Forecasting-COVID-19-Cases-Using-Time-Series-Models_-A-Study-Across-Countries-and-WHO-Regions.git
     cd Forecasting-COVID-19-Cases-Using-Time-Series-Models_-A-Study-Across-Countries-and-WHO-Region
     ```
 2.  Install the required Python libraries:
