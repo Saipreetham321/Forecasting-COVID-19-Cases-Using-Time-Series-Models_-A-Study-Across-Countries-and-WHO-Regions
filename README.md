@@ -33,23 +33,13 @@ Make sure you have **Python 3.7** or a newer version installed on your system. Y
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone [https://github.com/Saipreetham321/Forecasting-COVID-19-Cases-Using-Time-Series-Models_-A-Study-Across-Countries-and-WHO-Regions.git](https://github.com/Saipreetham321/Forecasting-COVID-19-Cases-Using-Time-Series-Models_-A-Study-Across-Countries-and-WHO-Regions.git)
+    cd Forecasting-COVID-19-Cases-Using-Time-Series-Models_-A-Study-Across-Countries-and-WHO-Region
     ```
 2.  Install the required Python libraries:
     A `requirements.txt` file is included for easy installation.
     ```bash
     pip install -r requirements.txt
-    ```
-    The `requirements.txt` file should contain:
-    ```
-    pandas
-    numpy
-    matplotlib
-    statsmodels
-    scikit-learn
-    prettytable
-    seaborn
     ```
 
 ### Usage
@@ -73,7 +63,7 @@ The repository is organized as follows:
 
 ├── data/
 │   └── covid_19_clean_complete.csv    # The dataset used for the analysis
-├── your_script_name.py                # The main Python script for the analysis
+├── Source_code.py                # The main Python script for the analysis
 ├── requirements.txt                   # A list of required Python libraries
 └── README.md                          # This README file
 ```
